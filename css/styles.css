@@ -11,7 +11,7 @@
 
     --link-color: rgb(80, 158, 227);
     --link-alpha-color: rgb(80, 158, 227, 0.75);
-    
+
     --bg-color: rgb(245, 245, 245);
     --bg-alpha-color: rgb(245, 245, 245, 0.75);
 }
@@ -23,6 +23,15 @@ body{
 }
 
 /****---Bootstrap styles---****/
+
+.bg-dark{
+    background-color: var(--second-color) !important;
+}
+
+.navbar-brand img{
+    width: auto;
+    height: 30px;
+}
 
 /****---My styles---****/
 
