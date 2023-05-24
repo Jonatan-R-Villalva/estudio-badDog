@@ -85,7 +85,9 @@ body{
 }
 
 @media (min-width: 992px) {
-
+    .nav-item:hover{
+        background-color: transparent;
+    }
 }
 
 @media (min-width: 1200px) {
