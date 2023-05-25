@@ -99,6 +99,14 @@ a:hover{
     );
 }
 
+.bg-third-color{
+    background-color: var(--third-color);
+}
+
+.text-third{
+    color: var(--third-color);
+}
+
 /****---Media Queries---****/
 
 @media (min-width: 576px) {
