@@ -111,12 +111,14 @@ a:hover{
     background-image: url('../img/site-singlepage.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .bg-hero-image-mp{
     background-image: url('../img/site-multipage.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .bg-third-color{
