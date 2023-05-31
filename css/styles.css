@@ -37,6 +37,10 @@ a:hover{
     background-color: var(--second-color) !important;
 }
 
+.carousel-caption{
+    z-index: 1;
+}
+
 .dropdown-item{
     color: var(--firs-alpha-color);
     font-weight: bold;
